@@ -2,7 +2,7 @@ package by.home.homework2;
 
 public class Homework2 {
     public static void main(String[] args) {
-        //Task 8
+        //Tasks 8
         long p = 1L;
         long s = 1L;
         while (s <= 3) {
