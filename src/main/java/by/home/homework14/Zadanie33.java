@@ -30,7 +30,7 @@ public class Zadanie33 {
                     .map(Path::toString)
                     .collect(Collectors.toList());
         }catch (IOException e){
-            System.out.println("problem" + e.getMessage());
+            System.out.println("problems" + e.getMessage());
         }
         return result;
     }
