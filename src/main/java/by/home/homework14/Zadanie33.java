@@ -13,7 +13,7 @@ public class Zadanie33 {
     public static void main(String[] args) {
         String pathDirectory = ".\\src";
 
-        List<String> directory = listOfDirectory(pathDirectory);      //Second variant
+        List<String> directory = listOfDirectory(pathDirectory);      //Second variants
         System.out.println("\nDirectories:");
         directory.forEach(System.out::println);
 
