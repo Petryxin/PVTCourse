@@ -18,7 +18,7 @@ public class Homework3 {
         }
         System.out.println("index of max mark is " + indexM);
 
-        // Zadanie 15
+        // Zadan 15
 
         int sum = 0;
         int indexMin = 0;
